@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392471980037",
+    "project_id": "cuentas-fe215",
+    "storage_bucket": "cuentas-fe215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392471980037:android:87ed87beb9f9f984abd46c",
+        "android_client_info": {
+          "package_name": "com.example.cuentas_alejandro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRS_zb_d_aphBR6tmnC-FlqFZ18cSNcSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
