@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 signIn(txtemail.text.toString(),txtpass.toString())
         }
         btnCrear_CuentaNueva.setOnClickListener(){
-            val i= Intent (this,crearcuentaActivity::class.java)
+            val i = Intent (this,crearcuentaActivity::class.java)
                 startActivity(i)
         }
     }
